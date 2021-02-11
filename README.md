@@ -1,3 +1,3 @@
 # rock_paper_scissors
-Камень ножницы бумага 8-)
-:)
+Камень ножницы бумага 
+![Minion](https://octodex.github.com/images/minion.png)
