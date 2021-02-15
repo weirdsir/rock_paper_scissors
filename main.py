@@ -1,3 +1,1 @@
-
-print("Hello world!!!")
-print("!!!")
+user = input("Введите букву r(ock),p(aper) или s(cissors)")
