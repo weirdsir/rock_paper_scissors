@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-user = input("Введите букву r(ock),p(aper) или s(cissors)")
-=======
 import random
 
 letters = ["r", "p", "s"]
@@ -21,4 +18,4 @@ while True:
         print("победа")
     else:
         print("поражение")
->>>>>>> Stashed changes
+
